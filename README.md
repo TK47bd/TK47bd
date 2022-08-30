@@ -1,4 +1,4 @@
-<h2 align="center"><b>Welcome to my profile<b></h2>
+<h2 align="center">Welcome to my profile</h2>
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250"/>
