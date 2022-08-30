@@ -1,4 +1,4 @@
-Welcome...
+<h2 align="center">Welcome...</h2>
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250"/>
@@ -6,7 +6,7 @@ Welcome...
 
 <h1 align="center">Hello, I'm Tahsin</h1>
   <p align="center">
- <img src="https://readme-typing-svg.herokuapp.com?lines=Professional+Web+Developer;PHP/Laravel%20|%20Javascript%20|%20React.js;Keep your trust on my work...;&center=true&width=500&height=50">
+ <img src="https://readme-typing-svg.herokuapp.com?lines=Professional+Web+Developer;PHP/Laravel%20|%20Javascript%20|%20React.js;Keep%20your%20trust%20on%20my%20work...;&center=true&width=500&height=50">
   <p align="center"> <img src="https://komarev.com/ghpvc/?username=TK47bd" alt="Tahsin" /> </p>
 </p>
 
