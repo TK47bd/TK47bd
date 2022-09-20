@@ -17,7 +17,9 @@
   <img height= "180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TK47bd&theme=radical&layout=compact" />
 </p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TK47bd&theme=chartreuse-dark)](https://git.io/streak-stats)
+<div align= "center">
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TK47bd&theme=chartreuse-dark)](https://git.io/streak-stats)
+</div>
 
 ### Reach me at:            
 <div id="badges">
