@@ -14,12 +14,9 @@
 
 <p align= "center">
   <img height= "180" src="https://github-readme-stats.vercel.app/api?username=TK47bd&theme=radical&show_icons=true" />
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TK47bd&theme=chartreuse-dark)](https://git.io/streak-stats)
   <img height= "180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TK47bd&theme=radical&layout=compact" />
 </p>
-
-<center>
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TK47bd&theme=chartreuse-dark)](https://git.io/streak-stats)
-</center>
 
 ### Reach me at:            
 <div id="badges">
